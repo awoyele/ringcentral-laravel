@@ -16,7 +16,7 @@
     "require": {
         "php": ">=7.1",
         "illuminate/support": "^5.2",
-        "ringcentral/ringcentral-php": "dev-master"
+        "ringcentral/ringcentral-php": "master"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0",
